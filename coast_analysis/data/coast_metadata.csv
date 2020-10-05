@@ -1,0 +1,275 @@
+reassigned_sample_id,region,age,age_category,gender,symptom_status,source,county,date_collect
+C22,Mombasa,63,60-69,Male,Symptomatic,Travel associated,Mombasa,2020-03-17
+C26,Mombasa,55,50-59,Male,Symptomatic,Local,Mombasa,2020-03-21
+C54,other_counties,30,30-39,Unknown,Symptomatic,Local,Kilifi,NA
+C58,other_counties,36,30-39,Female,Assymptomatic,NA,Kilifi,2020-03-24
+C203,Mombasa,42,40-49,Female,Symptomatic,Local,Mombasa,2020-04-01
+C223,other_counties,35,30-39,Unknown,Assymptomatic,NA,Kilifi,NA
+C247,Mombasa,66,60-69,Female,Symptomatic,Travel associated,Mombasa,2020-04-04
+C253,Mombasa,30,30-39,Male,Assymptomatic,Local,Mombasa,2020-04-03
+C256,Mombasa,26,20-29,Female,Symptomatic,Local,Mombasa,2020-04-03
+C293,Mombasa,22,20-29,Female,Symptomatic,Border,Mombasa,2020-04-04
+C309,Mombasa,47,40-49,Female,Assymptomatic,Border,Mombasa,2020-04-04
+C310,Mombasa,24,20-29,Male,Assymptomatic,Border,Mombasa,2020-04-04
+C314,Mombasa,26,20-29,Male,Assymptomatic,Border,Mombasa,2020-04-04
+C316,Mombasa,51,50-59,Female,Assymptomatic,Border,Mombasa,2020-04-04
+C353,Mombasa,45,40-49,Female,Assymptomatic,NA,Mombasa,2020-04-05
+C358,Mombasa,35,30-39,Female,Assymptomatic,NA,Mombasa,2020-04-05
+C377,Mombasa,57,50-59,Male,Symptomatic,NA,Mombasa,2020-04-06
+C389,Mombasa,29,20-29,Female,Assymptomatic,NA,Mombasa,2020-04-06
+C416,Mombasa,53,50-59,Male,Assymptomatic,Travel associated,Mombasa,2020-04-07
+C422,other_counties,30,30-39,Female,Symptomatic,NA,Kilifi,NA
+C452,Mombasa,26,20-29,Female,Unknown,Local,Mombasa,2020-04-08
+C460,Mombasa,58,50-59,Male,Unknown,NA,Mombasa,2020-04-09
+C502,Mombasa,2,0-9,Female,Assymptomatic,Local,Mombasa,2020-04-09
+C544,Mombasa,50,50-59,Female,Assymptomatic,NA,Mombasa,2020-04-10
+C569,Mombasa,22,20-29,Female,Assymptomatic,NA,Mombasa,2020-04-10
+C570,Mombasa,30,30-39,Female,Unknown,NA,Mombasa,2020-04-10
+C571,Mombasa,26,20-29,Male,Symptomatic,Travel associated,Mombasa,2020-04-10
+C587,Mombasa,NA,NA,Female,Symptomatic,NA,Mombasa,2020-04-11
+C589,Mombasa,42,40-49,Male,Symptomatic,Local,Mombasa,2020-04-11
+C599,Mombasa,36,30-39,Female,Symptomatic,Local,Mombasa,2020-04-11
+C639,Mombasa,53,50-59,Male,Assymptomatic,Border,Mombasa,2020-04-13
+C656,Mombasa,16,10-19,Male,Symptomatic,NA,Mombasa,2020-04-13
+C657,Mombasa,50,50-59,Female,Symptomatic,NA,Mombasa,2020-04-13
+C658,Mombasa,19,10-19,Female,Unknown,Local,Mombasa,2020-04-13
+C659,Mombasa,23,20-29,Female,Assymptomatic,NA,Mombasa,2020-04-13
+C677,Mombasa,57,50-59,Male,Symptomatic,Local,Mombasa,2020-04-14
+C688,Mombasa,42,40-49,Female,Assymptomatic,Border,Mombasa,2020-04-14
+C713,Mombasa,44,40-49,Male,Symptomatic,Local,Mombasa,2020-04-14
+C724,other_counties,30,30-39,Female,Symptomatic,NA,Kilifi,2020-04-15
+C787,Mombasa,56,50-59,Male,Assymptomatic,Border,Mombasa,2020-04-15
+C803,Mombasa,39,30-39,Male,Assymptomatic,NA,Mombasa,2020-04-15
+C813,Mombasa,30,30-39,Female,Symptomatic,Local,Mombasa,2020-04-15
+C815,Mombasa,30,30-39,Male,Assymptomatic,Local,Mombasa,2020-04-15
+C819,Mombasa,60,60-69,Male,Symptomatic,Local,Mombasa,2020-04-15
+C821,Mombasa,84,80-89,Male,Unknown,NA,Mombasa,2020-04-15
+C853,Mombasa,46,40-49,Male,Symptomatic,Local,Mombasa,2020-04-15
+C906,other_counties,NA,NA,Female,Assymptomatic,Local,Kilifi,2020-04-16
+C926,Mombasa,22,20-29,Female,Assymptomatic,NA,Mombasa,2020-04-17
+C942,Mombasa,39,30-39,Female,Assymptomatic,Border,Mombasa,2020-04-17
+C1058,Mombasa,NA,NA,Female,Assymptomatic,NA,Mombasa,2020-04-18
+C1063,Mombasa,34,30-39,Female,Assymptomatic,Local,Mombasa,2020-04-18
+C1092,Mombasa,11,10-19,Male,Assymptomatic,Local,Mombasa,2020-04-18
+C1099,Mombasa,50,50-59,Female,Assymptomatic,NA,Mombasa,2020-04-18
+C1102,Mombasa,53,50-59,Male,Assymptomatic,Travel associated,Mombasa,2020-04-18
+C1162,Mombasa,43,40-49,Male,Assymptomatic,NA,Mombasa,2020-04-19
+C1172,Mombasa,38,30-39,Male,Assymptomatic,Border,Mombasa,2020-04-19
+C1191,Mombasa,35,30-39,Female,Assymptomatic,Border,Mombasa,2020-04-19
+C1202,Mombasa,57,50-59,Female,Assymptomatic,Border,Mombasa,2020-04-19
+C1216,Mombasa,41,40-49,Female,Assymptomatic,Border,Mombasa,2020-04-19
+C1218,Mombasa,50,50-59,Male,Unknown,NA,Mombasa,NA
+C1292,Mombasa,21,20-29,Male,Assymptomatic,Local,Mombasa,2020-04-20
+C1298,Mombasa,34,30-39,Female,Assymptomatic,Local,Mombasa,2020-04-20
+C1351,Mombasa,47,40-49,Male,Assymptomatic,Border,Mombasa,2020-04-20
+C1357,Mombasa,44,40-49,Female,Symptomatic,Border,Mombasa,2020-04-20
+C1401,Mombasa,41,40-49,Male,Assymptomatic,Border,Mombasa,2020-04-20
+C1422,Mombasa,37,30-39,Female,Assymptomatic,Border,Mombasa,2020-04-20
+C1434,Mombasa,48,40-49,Female,Assymptomatic,Border,Mombasa,2020-04-20
+C1499,Mombasa,60,60-69,Male,Unknown,NA,Mombasa,2020-04-19
+C1625,Mombasa,61,60-69,Male,Symptomatic,Local,Mombasa,2020-04-20
+C1646,Mombasa,48,40-49,Female,Symptomatic,Local,Mombasa,2020-04-21
+C1722,Mombasa,16,10-19,Male,Assymptomatic,NA,Mombasa,2020-04-22
+C1739,Mombasa,21,20-29,Female,Unknown,NA,Mombasa,2020-04-22
+C1751,Mombasa,36,30-39,Male,Unknown,Local,Mombasa,2020-04-22
+C1983,Mombasa,30,30-39,Male,Assymptomatic,Local,Mombasa,2020-04-22
+C2041,Mombasa,34,30-39,Male,Assymptomatic,NA,Mombasa,2020-04-22
+C2076,Mombasa,19,10-19,Female,Assymptomatic,NA,Mombasa,2020-04-23
+C2239,Mombasa,50,50-59,Male,Assymptomatic,Local,Mombasa,2020-04-23
+C2439,Mombasa,33,30-39,Female,Assymptomatic,Local,Mombasa,2020-04-24
+C2449,Mombasa,52,50-59,Female,Assymptomatic,Local,Mombasa,2020-04-24
+C2469,Mombasa,60,60-69,Female,Unknown,NA,Mombasa,2020-04-24
+C2531,Mombasa,23,20-29,Male,Assymptomatic,NA,Mombasa,2020-04-25
+C2562,Mombasa,13,10-19,Male,Assymptomatic,NA,Mombasa,2020-04-25
+C2579,Mombasa,65,60-69,Female,Symptomatic,Local,Mombasa,2020-04-25
+C2582,Mombasa,51,50-59,Female,Symptomatic,Local,Mombasa,2020-04-25
+C2685,other_counties,42,40-49,Female,Assymptomatic,Border,Kwale,2020-04-25
+C2738,Mombasa,47,40-49,Male,Unknown,NA,Mombasa,2020-04-26
+C2755,Mombasa,31,30-39,Male,Unknown,Local,Mombasa,2020-04-26
+C2777,Mombasa,75,70-79,Male,Symptomatic,NA,Mombasa,2020-04-24
+C2800,Mombasa,42,40-49,Unknown,Unknown,NA,Mombasa,NA
+C2801,Mombasa,65,60-69,Male,Assymptomatic,Local,Mombasa,2020-04-26
+C2826,Mombasa,45,40-49,Male,Unknown,Local,Mombasa,2020-04-27
+C2847,Mombasa,35,30-39,Female,Assymptomatic,NA,Mombasa,2020-04-27
+C2878,Mombasa,36,30-39,Male,Unknown,Local,Mombasa,2020-04-27
+C2884,Mombasa,43,40-49,Female,Symptomatic,Local,Mombasa,NA
+C3089,Mombasa,NA,NA,Unknown,Unknown,NA,Mombasa,NA
+C3129,Mombasa,7,0-9,Female,Unknown,NA,Mombasa,2020-04-28
+C3130,Mombasa,1,0-9,Male,Unknown,NA,Mombasa,2020-04-28
+C3140,Mombasa,33,30-39,Male,Unknown,NA,Mombasa,NA
+C3143,Mombasa,28,20-29,Female,Unknown,Local,Mombasa,2020-04-28
+C3194,Mombasa,52,50-59,Male,Assymptomatic,Local,Mombasa,2020-04-28
+C3205,Mombasa,38,30-39,Female,Assymptomatic,Local,Mombasa,2020-04-28
+C3208,Mombasa,79,70-79,Male,Unknown,Local,Mombasa,2020-04-28
+C3216,Mombasa,59,50-59,Male,Unknown,NA,Mombasa,2020-04-28
+C3381,Mombasa,57,50-59,Female,Assymptomatic,Local,Mombasa,2020-04-29
+C3427,Mombasa,31,30-39,Female,Assymptomatic,Local,Mombasa,2020-04-29
+C3445,Mombasa,2,0-9,Female,Symptomatic,Local,Mombasa,2020-04-29
+C3457,Mombasa,52,50-59,Female,Assymptomatic,Local,Mombasa,NA
+C3732,other_counties,43,40-49,Male,Assymptomatic,Travel associated,Kwale,2020-05-01
+C3739,other_counties,35,30-39,Male,Assymptomatic,Local,Kwale,2020-05-01
+C3948,Mombasa,34,30-39,Female,Assymptomatic,Local,Mombasa,2020-05-04
+C3980,Mombasa,37,30-39,Female,Assymptomatic,Local,Mombasa,2020-05-04
+C4074,Mombasa,73,70-79,Male,Symptomatic,NA,Mombasa,2020-05-04
+C4083,Mombasa,55,50-59,Female,Symptomatic,Local,Mombasa,2020-05-04
+C4084,Mombasa,36,30-39,Female,Assymptomatic,Local,Mombasa,2020-05-04
+C4195,Mombasa,39,30-39,Unknown,Unknown,NA,Mombasa,NA
+C4199,Mombasa,48,40-49,Unknown,Unknown,NA,Mombasa,NA
+C4214,Mombasa,37,30-39,Male,Unknown,Local,Mombasa,2020-05-04
+C4290,Mombasa,32,30-39,Male,Unknown,Local,Mombasa,2020-05-05
+C4419,Mombasa,41,40-49,Male,Unknown,NA,Mombasa,2020-05-05
+C4420,Mombasa,49,40-49,Male,Assymptomatic,NA,Mombasa,NA
+C4447,Mombasa,34,30-39,Female,Unknown,Local,Mombasa,2020-05-05
+C4497,Mombasa,NA,NA,Unknown,Unknown,NA,Mombasa,NA
+C4585,Mombasa,31,30-39,Male,Assymptomatic,Local,Mombasa,2020-05-05
+C4616,Mombasa,34,30-39,Male,Unknown,Local,Mombasa,2020-05-05
+C4621,Mombasa,25,20-29,Female,Unknown,NA,Mombasa,2020-05-05
+C4626,Mombasa,NA,NA,Unknown,Unknown,NA,Mombasa,NA
+C4649,Mombasa,NA,NA,Unknown,Unknown,NA,Mombasa,NA
+C4691,Mombasa,58,50-59,Female,Symptomatic,NA,Mombasa,2020-05-05
+C4706,Mombasa,23,20-29,Male,Unknown,NA,Mombasa,2020-05-06
+C4710,Mombasa,57,50-59,Male,Unknown,NA,Mombasa,2020-05-06
+C4714,Mombasa,50,50-59,Unknown,Unknown,NA,Mombasa,2020-05-06
+C4717,Mombasa,60,60-69,Female,Unknown,NA,Mombasa,2020-05-06
+C4730,Mombasa,68,60-69,Male,Unknown,NA,Mombasa,2020-05-05
+C4822,Mombasa,40,40-49,Male,Unknown,NA,Mombasa,2020-05-06
+C4864,Mombasa,21,20-29,Unknown,Assymptomatic,NA,Mombasa,2020-05-06
+C4872,Mombasa,28,20-29,Male,Assymptomatic,Local,Mombasa,2020-05-06
+C4895,Mombasa,31,30-39,Female,Unknown,Local,Mombasa,2020-05-06
+C4964,Mombasa,20,20-29,Male,Symptomatic,Local,Mombasa,2020-05-05
+C5008,Mombasa,58,50-59,Male,Unknown,NA,Mombasa,2020-05-07
+C5011,Mombasa,36,30-39,Male,Unknown,NA,Mombasa,2020-05-07
+C5015,Mombasa,33,30-39,Male,Unknown,NA,Mombasa,2020-05-07
+C5018,Mombasa,50,50-59,Male,Unknown,NA,Mombasa,2020-05-07
+C5019,Mombasa,44,40-49,Female,Unknown,NA,Mombasa,2020-05-07
+C5029,Mombasa,28,20-29,Female,Symptomatic,Local,Mombasa,2020-05-07
+C5119,Mombasa,32,30-39,Male,Assymptomatic,Local,Mombasa,2020-05-07
+C5176,Mombasa,62,60-69,Male,Unknown,Local,Mombasa,2020-05-07
+C5177,Mombasa,55,50-59,Female,Assymptomatic,Local,Mombasa,2020-05-07
+C5178,Mombasa,41,40-49,Female,Assymptomatic,Local,Mombasa,2020-05-07
+C5246,Mombasa,58,50-59,Male,Symptomatic,Local,Mombasa,NA
+C5288,Mombasa,63,60-69,Male,Unknown,NA,Mombasa,2020-05-08
+C5289,Mombasa,35,30-39,Male,Unknown,NA,Mombasa,2020-05-08
+C5290,Mombasa,28,20-29,Male,Unknown,NA,Mombasa,2020-05-08
+C5293,Mombasa,31,30-39,Male,Unknown,NA,Mombasa,2020-05-08
+C5301,Mombasa,23,20-29,Male,Unknown,NA,Mombasa,2020-05-08
+C5328,Mombasa,27,20-29,Female,Assymptomatic,Local,Mombasa,2020-05-08
+C5334,Mombasa,73,70-79,Male,Symptomatic,NA,Mombasa,2020-05-08
+C5335,Mombasa,59,50-59,Male,Assymptomatic,Local,Mombasa,2020-05-08
+C5355,Mombasa,27,20-29,Male,Symptomatic,Local,Mombasa,2020-05-08
+C5384,Mombasa,22,20-29,Male,Assymptomatic,Local,Mombasa,2020-05-08
+C5418,Mombasa,56,50-59,Male,Unknown,NA,Mombasa,2020-05-08
+C5433,Mombasa,44,40-49,Male,Unknown,Local,Mombasa,2020-05-08
+C5442,Mombasa,46,40-49,Male,Unknown,Local,Mombasa,2020-05-08
+C5455,Mombasa,34,30-39,Male,Unknown,NA,Mombasa,2020-05-08
+C5545,Mombasa,NA,NA,Unknown,Unknown,NA,Mombasa,NA
+C5552,Mombasa,15,10-19,Male,Assymptomatic,Local,Mombasa,2020-05-09
+C5695,Mombasa,33,30-39,Male,Symptomatic,Local,Mombasa,2020-05-09
+C5696,Mombasa,58,50-59,Male,Symptomatic,Local,Mombasa,2020-05-09
+C5701,Mombasa,62,60-69,Female,Assymptomatic,Travel associated,Mombasa,2020-05-09
+C5767,Mombasa,26,20-29,Male,Assymptomatic,Local,Mombasa,2020-05-09
+C5790,Mombasa,26,20-29,Male,Assymptomatic,Local,Mombasa,2020-05-09
+C5811,Mombasa,26,20-29,Male,Assymptomatic,Local,Mombasa,2020-05-09
+C5813,Mombasa,39,30-39,Male,Assymptomatic,Local,Mombasa,2020-05-09
+C5835,Mombasa,23,20-29,Male,Assymptomatic,Local,Mombasa,2020-05-09
+C5875,Mombasa,40,40-49,Female,Assymptomatic,Local,Mombasa,2020-05-10
+C5885,Mombasa,62,60-69,Female,Assymptomatic,NA,Mombasa,2020-05-10
+C5902,Mombasa,34,30-39,Male,Symptomatic,Local,Mombasa,2020-05-10
+C5911,Mombasa,32,30-39,Male,Assymptomatic,NA,Mombasa,2020-05-10
+C5913,Mombasa,64,60-69,Female,Assymptomatic,NA,Mombasa,2020-05-10
+C5914,Mombasa,70,70-79,Female,Assymptomatic,NA,Mombasa,2020-05-10
+C5915,Mombasa,81,80-89,Male,Assymptomatic,NA,Mombasa,2020-05-10
+C6158,Mombasa,39,30-39,Male,Assymptomatic,Local,Mombasa,2020-05-11
+C6162,Mombasa,58,50-59,Female,Unknown,NA,Mombasa,2020-05-11
+C6164,Mombasa,35,30-39,Female,Assymptomatic,NA,Mombasa,2020-05-11
+C6186,Mombasa,14,10-19,Female,Unknown,Local,Mombasa,2020-05-11
+C6193,Mombasa,65,60-69,Male,Symptomatic,Travel associated,Mombasa,2020-05-10
+C6250,Mombasa,56,50-59,Male,Unknown,Local,Mombasa,2020-05-11
+C6255,Mombasa,53,50-59,Male,Unknown,Local,Mombasa,2020-05-11
+C6288,Mombasa,48,40-49,Male,Unknown,NA,Mombasa,2020-05-11
+C6298,Mombasa,40,40-49,Male,Unknown,NA,Mombasa,2020-05-11
+C6309,Mombasa,24,20-29,Male,Unknown,Local,Mombasa,2020-05-11
+C6369,Mombasa,85,80-89,Unknown,Unknown,NA,Mombasa,NA
+C6370,Mombasa,52,50-59,Unknown,Unknown,NA,Mombasa,NA
+C6377,Mombasa,60,60-69,Unknown,Unknown,NA,Mombasa,NA
+C6379,Mombasa,57,50-59,Unknown,Unknown,NA,Mombasa,NA
+C6380,Mombasa,60,60-69,Unknown,Unknown,NA,Mombasa,NA
+C6384,Mombasa,62,60-69,Unknown,Unknown,NA,Mombasa,NA
+C6465,other_counties,0,0-9,Male,Unknown,Border,Kwale,2020-05-12
+C6470,other_counties,39,30-39,Male,Assymptomatic,Border,Kwale,2020-05-12
+C6507,other_counties,32,30-39,Male,Assymptomatic,Travel associated,Kwale,2020-05-12
+C6518,other_counties,56,50-59,Male,Assymptomatic,Border,Kwale,2020-05-12
+C6519,other_counties,27,20-29,Male,Assymptomatic,Border,Kwale,2020-05-12
+C6524,other_counties,19,10-19,Male,Assymptomatic,Border,Kwale,2020-05-12
+C6561,Mombasa,NA,NA,Unknown,Unknown,NA,Mombasa,NA
+C6564,Mombasa,28,20-29,Male,Assymptomatic,NA,Mombasa,2020-05-12
+C6704,Mombasa,17,10-19,Male,Assymptomatic,Local,Mombasa,2020-05-12
+C6707,Mombasa,NA,NA,Unknown,Unknown,NA,Mombasa,NA
+C6711,Mombasa,40,40-49,Female,Unknown,Local,Mombasa,2020-05-12
+C6740,Mombasa,34,30-39,Male,Symptomatic,Local,Mombasa,2020-05-12
+C6860,Mombasa,NA,NA,Unknown,Unknown,NA,Mombasa,NA
+C6868,other_counties,43,40-49,Male,Assymptomatic,Border,Taita Taveta,2020-05-13
+C6875,other_counties,50,50-59,Male,Unknown,Border,Taita Taveta,2020-05-13
+C6876,other_counties,36,30-39,Male,Assymptomatic,Border,Taita Taveta,2020-05-13
+C6878,other_counties,26,20-29,Male,Unknown,Border,Taita Taveta,2020-05-13
+C6879,other_counties,40,40-49,Male,Unknown,Border,Taita Taveta,2020-05-13
+C6882,other_counties,33,30-39,Male,Symptomatic,Border,Taita Taveta,2020-05-13
+C6885,other_counties,50,50-59,Unknown,Assymptomatic,Border,Taita Taveta,2020-05-13
+C6914,other_counties,33,30-39,Male,Assymptomatic,Border,Taita Taveta,2020-05-13
+C6934,other_counties,45,40-49,Male,Assymptomatic,Border,Taita Taveta,2020-05-13
+C6953,other_counties,45,40-49,Male,Unknown,Border,Taita Taveta,2020-05-13
+C6958,other_counties,56,50-59,Male,Assymptomatic,Border,Taita Taveta,2020-05-13
+C6962,other_counties,22,20-29,Male,Unknown,Border,Taita Taveta,2020-05-13
+C6964,other_counties,33,30-39,Male,Unknown,Border,Taita Taveta,2020-05-13
+C6977,other_counties,35,30-39,Male,Unknown,Travel associated,Kilifi,2020-05-12
+C7039,other_counties,31,30-39,Male,Assymptomatic,Border,Kwale,2020-05-13
+C7078,Mombasa,4,0-9,Male,Assymptomatic,NA,Mombasa,2020-05-13
+C7081,Mombasa,21,20-29,Male,Assymptomatic,Local,Mombasa,2020-05-13
+C7082,Mombasa,55,50-59,Male,Assymptomatic,Local,Mombasa,2020-05-13
+C7187,Mombasa,46,40-49,Male,Assymptomatic,Local,Mombasa,2020-05-13
+C7295,other_counties,52,50-59,Male,Assymptomatic,Travel associated,Kwale,2020-05-13
+C7296,other_counties,51,50-59,Male,Assymptomatic,Travel associated,Kwale,2020-05-13
+C7297,other_counties,26,20-29,Male,Assymptomatic,Travel associated,Kwale,2020-05-13
+C7299,other_counties,33,30-39,Male,Assymptomatic,Travel associated,Kwale,2020-05-13
+C7313,other_counties,24,20-29,Male,Assymptomatic,Border,Kwale,2020-05-13
+C7322,other_counties,23,20-29,Male,Assymptomatic,Border,Kwale,2020-05-13
+C7324,Mombasa,54,50-59,Male,Symptomatic,NA,Mombasa,2020-05-12
+C7379,Mombasa,63,60-69,Male,Assymptomatic,NA,Mombasa,2020-05-13
+C7380,Mombasa,28,20-29,Female,Assymptomatic,NA,Mombasa,2020-05-13
+C7382,Mombasa,65,60-69,Female,Symptomatic,NA,Mombasa,2020-05-13
+C7383,Mombasa,23,20-29,Male,Assymptomatic,NA,Mombasa,2020-05-13
+C7384,Mombasa,35,30-39,Male,Assymptomatic,NA,Mombasa,2020-05-13
+C7409,other_counties,46,40-49,Male,Assymptomatic,Border,Taita Taveta,2020-05-14
+C7417,other_counties,45,40-49,Male,Assymptomatic,Border,Taita Taveta,2020-05-14
+C7547,other_counties,32,30-39,Male,Assymptomatic,Border,Taita Taveta,2020-05-14
+C7579,other_counties,23,20-29,Unknown,Unknown,Travel associated,Kwale,2020-05-14
+C7580,other_counties,36,30-39,Male,Unknown,Travel associated,Kwale,2020-05-14
+C7584,other_counties,34,30-39,Male,Unknown,Travel associated,Kwale,2020-05-14
+C7603,other_counties,56,50-59,Male,Unknown,Travel associated,Kwale,2020-05-14
+C7604,other_counties,29,20-29,Male,Unknown,Travel associated,Kwale,2020-05-14
+C7605,other_counties,24,20-29,Male,Unknown,Travel associated,Kwale,2020-05-14
+C7741,other_counties,23,20-29,Male,Assymptomatic,Border,Taita Taveta,2020-05-15
+C7850,other_counties,29,20-29,Male,Unknown,Border,Kwale,2020-05-15
+C7855,other_counties,42,40-49,Male,Unknown,Travel associated,Kwale,2020-05-15
+C7866,other_counties,54,50-59,Male,Assymptomatic,Border,Kwale,2020-05-15
+C7949,Mombasa,46,40-49,Male,Assymptomatic,Local,Mombasa,2020-05-15
+C7954,Mombasa,42,40-49,Male,Assymptomatic,Local,Mombasa,2020-05-14
+C8013,Mombasa,31,30-39,Male,Assymptomatic,Local,Mombasa,2020-05-15
+C8240,Mombasa,44,40-49,Male,Assymptomatic,NA,Mombasa,2020-05-14
+C8288,Mombasa,43,40-49,Male,Assymptomatic,NA,Mombasa,2020-05-14
+C8311,Mombasa,31,30-39,Male,Assymptomatic,NA,Mombasa,2020-05-15
+C8369,other_counties,35,30-39,Male,Assymptomatic,Border,Taita Taveta,2020-05-16
+C8377,other_counties,36,30-39,Male,Assymptomatic,Border,Taita Taveta,2020-05-16
+C8387,other_counties,33,30-39,Male,Assymptomatic,Border,Taita Taveta,2020-05-16
+C8431,other_counties,40,40-49,Male,Unknown,NA,Kwale,2020-05-16
+C8437,other_counties,38,30-39,Male,Unknown,Travel associated,Kwale,2020-05-16
+C8439,other_counties,33,30-39,Male,Unknown,Travel associated,Kwale,2020-05-16
+C8453,other_counties,55,50-59,Male,Unknown,Travel associated,Kwale,2020-05-16
+C8454,other_counties,39,30-39,Male,Unknown,Border,Kwale,2020-05-16
+C8556,other_counties,40,40-49,Male,Assymptomatic,Border,Taita Taveta,2020-05-17
+C8558,other_counties,38,30-39,Unknown,Assymptomatic,Border,Taita Taveta,2020-05-17
+C8565,other_counties,63,60-69,Male,Assymptomatic,NA,Kilifi,2020-05-17
+C8574,other_counties,33,30-39,Male,Unknown,Travel associated,Kwale,2020-05-17
+C8579,other_counties,31,30-39,Female,Assymptomatic,Border,Kwale,2020-05-17
+C21527,Mombasa,31,30-39,Male,Assymptomatic,Travel associated,Mombasa,2020-06-19
+C21582,Mombasa,74,70-79,Male,Assymptomatic,Local,Mombasa,2020-06-19
